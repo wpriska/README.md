@@ -1,18 +1,5 @@
-# README.md
-Design Profissional - Turma_001
-
- SEGUNDO_CODIGO
-
- * AUTHOR: VESLEY CESAR DA SILVA
-
- NESSE CÓDIGO DEMONSTRA COMO DECLARAR UMA VARIÁVEL
- E TAMBÉM COMO ESTAR EFETUANDO CONTAS DE SOMA,SUBTRAÇÃO,
- DIVISÃO E MULTIPLICAÇÃO
-
- INICIANDO PHYTON3
-
- * AUTHOR: VESLEY SILVA
-   https://github.com/VesleySilva
-
- VÁRIOS SCRIPTS PEQUENOS PARA CONHECIMENTO DE ENTRADA DE DADOS E OPERAÕES MATEMÁTICAS BÁSICAS
- 
+👋 Olá, me chamo Wellington;
+👀 Sou Administrador,  com atuação em organizações públicas na área de gestão;
+🌱 Atualmente estou cursando Análise e Desenvolvimento de Sistemas;
+💞️ Gosto de colaborar os meus códigos e fica aberto para atualizações;
+📫 wpriska@gmail.com
